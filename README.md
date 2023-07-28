@@ -1,4 +1,4 @@
-# Walkthrough of the handmade hero serios on yt
+# Walkthrough of the handmade hero series on yt
 
 The build.bat file uses the VS cl compiler
 
